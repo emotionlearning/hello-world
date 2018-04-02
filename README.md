@@ -1,4 +1,4 @@
-# hello-world
-Test
+# Calculate and display electrical potential for a point charge
+First part is to test Python contour display.
 
-First test.
+The second part is to calculate the potential.
